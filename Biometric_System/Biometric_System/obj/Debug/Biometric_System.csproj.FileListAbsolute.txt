@@ -1,0 +1,17 @@
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\Biometric_System.exe.config
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\Biometric_System.exe
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\Biometric_System.pdb
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.csprojAssemblyReference.cache
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.Login.resources
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.Properties.Resources.resources
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.csproj.GenerateResource.cache
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.csproj.CoreCompileInputs.cache
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.exe
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.pdb
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.csproj.CopyComplete
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\MySql.Data.dll
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\Google.Protobuf.dll
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\MySql.Data.xml
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\bin\Debug\MaterialSkin.dll
+C:\Users\Safian\source\repos\Biometric_System\Biometric_System\obj\Debug\Biometric_System.Dashboard.resources
